@@ -1,5 +1,10 @@
 # Electric-Vehicle-Charge-and-Range-Analysis
+## 📷 Dashboard Preview
+![EV Dashboard](EV_dashBoard.png)
 
+## 🔗 Live Dashboard
+View the interactive dashboard here:
+https://public.tableau.com/app/profile/bhanu.pratap.singh8244/viz/project1_17729723825430/Dashboard2?publish=yes
 ## 📌 Project Overview
 
 This project focuses on analyzing Electric Vehicle (EV) data using data visualization techniques. The aim of this project is to study and compare different EV models based on their battery capacity, driving range, charging time, charging type, and price.
