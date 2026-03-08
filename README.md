@@ -1,7 +1,5 @@
 # Electric-Vehicle-Charge-and-Range-Analysis
 
-# Electric Vehicle Charge and Range Analysis 🚗⚡
-
 ## 📌 Project Overview
 
 This project focuses on analyzing Electric Vehicle (EV) data using data visualization techniques. The aim of this project is to study and compare different EV models based on their battery capacity, driving range, charging time, charging type, and price.
